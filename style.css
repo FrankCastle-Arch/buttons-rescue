@@ -31,12 +31,16 @@ body { background: #fff; font-family: "Nunito", sans-serif; }
   h1 {
   font-family: "Caveat", cursive;
   font-optical-sizing: auto;
+  font-size: 33px
   font-weight: 500;
   font-style: normal;
+  text-shadow: 4px 4px 4px #aaa;
 }	
 
 h2 {
   font-family: "Caveat", cursive;
   font-optical-sizing: auto;
+  font-size: 30px
   font-weight: 500;
   font-style: normal;
+  text-shadow: 4px 4px 4px #aaa;
