@@ -28,4 +28,9 @@ body { background: #fff; font-family: "Nunito", sans-serif; }
 .credits { margin-top: 2rem; color: #5f554d; }
 
 
-	
+  caveat-font {
+  font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}	
